@@ -1,0 +1,92 @@
+@media (max-width: 768px) and (min-width: 320px) {
+
+    #carouselExampleAutoplaying {
+        margin-top: 5px;
+        margin-left: 5px;
+        margin-right: 5px;
+    }
+
+    img {
+        border-radius: 10px;
+    }
+
+    .textoInicio {
+        margin-top: 50px;
+        margin-bottom: 50px;
+        text-align: center;
+    }
+
+    .textoInicio h3 {
+        color: rgb(255, 255, 255);
+        text-shadow: 2px 1px rgb(0, 0, 0);
+        font-size: 22px;
+        font-weight: bold;
+        margin-bottom: 30px;
+    }
+
+    p {
+        color: rgb(255, 255, 255);
+        text-shadow: 2px 1px rgb(0, 0, 0);
+        font-size: 18px;
+        margin: 5px;
+    }
+
+    .vazio{
+        height: 147px;
+    }
+}
+
+@media (max-width: 1024px) and (min-width: 769px) {
+
+    #carouselExampleAutoplaying {
+        margin-top: 20px;
+        margin-bottom: 25px;
+        margin-left: 20px;
+        margin-right: 20px;
+        border: 1px solid #880181;
+        border-radius: 10px;
+        text-align: center;
+    }
+
+    img {
+
+        height: 500px;
+        border-radius: 10px;
+    }
+}
+
+@media (min-width: 1025px) {
+
+    #carouselExampleAutoplaying {
+        margin-top: 20px;
+        margin-bottom: 25px;
+        margin-left: 20px;
+        margin-right: 20px;
+        border: 1px solid #880181;
+        border-radius: 10px;
+        text-align: center;
+    }
+
+    img {
+
+        height: 500px;
+        border-radius: 10px;
+    }
+
+     .textoInicio h3 {
+        text-align: center;
+        color: rgb(255, 255, 255);
+        text-shadow: 2px 1px rgb(0, 0, 0);
+        font-size: 22px;
+        font-weight: bold;
+        margin-bottom: 30px;
+    }
+
+    p {
+        text-align: center;
+        color: rgb(255, 255, 255);
+        text-shadow: 2px 1px rgb(0, 0, 0);
+        font-size: 18px;
+        margin: 5px;
+    }
+}

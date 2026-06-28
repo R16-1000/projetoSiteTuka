@@ -1,0 +1,144 @@
+@media (max-width: 768px) and (min-width: 320px) {
+
+    /* -------------INICIO background ------------------ */
+
+    body {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+
+    #fundo {
+        background-color: #99d4c7;
+    }
+
+    /* -------------FIM background ------------------ */
+
+    /* -------------INICIO borda fundo ------------------ */
+
+    fieldset.borda {
+        margin-top: 60px;
+        margin-left: 5px;
+        margin-right: 5px;
+        background-image: url('../../img/fundo/fundo.jpg');
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+    }
+
+    /* -------------FIM borda fundo ------------------ */
+
+    /* -------------INICIO borda------------------ */
+
+    fieldset.borda {
+        /* border: 2px solid #000; */
+        border: 4px solid #1f3e2e;
+        border-style: dashed;
+        border-radius: 10px;
+        padding-bottom: 20px;
+    }
+
+    /* -------------FIM borda  ------------------ */
+
+    footer {
+        margin-left: 2%;
+        margin-top: 1%;
+    }
+
+}
+
+@media (max-width: 1024px) and (min-width: 769px) {
+
+    /* -------------INICIO background ------------------ */
+
+    body {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+
+    #fundo {
+        background-color: #99d4c7;
+    }
+
+    /* -------------FIM background ------------------ */
+
+    /* -------------INICIO borda fundo ------------------ */
+
+    fieldset.borda {
+        margin-top: 60px;
+        margin-left: 30px;
+        margin-right: 30px;
+        background-image: url('../../img/fundo/fundo.jpg');
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+    }
+
+    /* -------------FIM borda fundo ------------------ */
+
+    /* -------------INICIO borda------------------ */
+
+    fieldset.borda {
+        /* border: 2px solid #000; */
+        border: 4px solid #1f3e2e;
+        border-style: dashed;
+        border-radius: 10px;
+        padding-bottom: 20px;
+    }
+
+    /* -------------FIM borda  ------------------ */
+
+    footer {
+        margin-left: 2%;
+        margin-top: 1%;
+    }
+}
+
+@media (min-width: 1025px) {
+
+    /* -------------INICIO background ------------------ */
+
+    body {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+
+    #fundo {
+        background-color: #99d4c7;
+    }
+
+    /* -------------FIM background ------------------ */
+
+    /* -------------INICIO borda fundo ------------------ */
+
+    fieldset.borda {
+        margin-top: 60px;
+        margin-left: 5px;
+        margin-right: 5px;
+        background-image: url('../../img/fundo/fundo.jpg');
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+    }
+
+    /* -------------FIM borda fundo ------------------ */
+
+    /* -------------INICIO borda------------------ */
+
+    fieldset.borda {
+        /* border: 2px solid #000; */
+        border: 4px solid #1f3e2e;
+        border-style: dashed;
+        border-radius: 10px;
+        padding-bottom: 20px;
+    }
+
+    /* -------------FIM borda  ------------------ */
+
+    footer {
+        margin-left: 2%;
+        margin-top: 1%;
+    }
+}
